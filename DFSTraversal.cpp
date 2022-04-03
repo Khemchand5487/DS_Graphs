@@ -1,4 +1,4 @@
-// BFS traversal of graph using adjacency list in c++
+// DFS traversal of graph using adjacency list in c++
 
 #include <bits/stdc++.h>
 
